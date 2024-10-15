@@ -1,0 +1,9 @@
+# ninja log v6
+168	2088	7507082766431175	CMakeFiles/stacks.dir/Stack.cpp.obj	a7dc45721d1af8fa
+133	1793	7507082934674255	CMakeFiles/stacks.dir/Stack.cpp.obj	a7dc45721d1af8fa
+7	1088	7507083583021320	CMakeFiles/stacks.dir/main.cpp.obj	822bb2dd79238043
+95	1802	7507083583896902	CMakeFiles/stacks.dir/Stack.cpp.obj	a7dc45721d1af8fa
+1802	3167	7507083600964767	stacks.exe	c53bd9c2e5734911
+6	1201	7507084014263808	CMakeFiles/stacks.dir/main.cpp.obj	822bb2dd79238043
+120	1929	7507084015398560	CMakeFiles/stacks.dir/Stack.cpp.obj	a7dc45721d1af8fa
+1929	3159	7507084033486847	stacks.exe	c53bd9c2e5734911
